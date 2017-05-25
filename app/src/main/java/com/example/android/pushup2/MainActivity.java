@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
         i++;
         j++;
     }
+
+    private String branchMethod(){
+        return "branch 2 method return!";
+    }
 }
